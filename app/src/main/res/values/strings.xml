@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPExample</string>
+    <string name="hello_blank_fragment">Lucky Luke</string>
+</resources>
